@@ -1,3 +1,55 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://biglin2.netlify.com"
+title = "Brent Biglin"
+copyright = "© Brent Biglin 2017"
+
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = ""
+Paginate = 5
+
+[params]
+  description = "UX Designer with a Coding Habit"
+  dateFormat = "2 Jan 2006"
+  copyrightOwner = "Brent Biglin"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
+
+[params.seo]
+  # Title Separator: - – — · • * ⋆ | ~ « » < >
+  titleSeparator = "•"
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  twitter = "https://twitter.com/brntbgln"
+
+[author]
+  name = "Brent"
+
+[author.social]
+  github = "brentbiglin"
+  twitter = "brntbgln"
+
+[permalinks]
+  page = "/:slug/"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
