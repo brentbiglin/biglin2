@@ -1,5 +1,5 @@
 +++
-date = "2016-04-06T12:00:00+06:00"
+date = "2017-04-06T12:00:00+06:00"
 title = "Water to Thrive"
 categories = ["Websites"]
 tags = ["information architecture", "competitive analysis", "Sketch", "InVision"]
