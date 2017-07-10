@@ -2,7 +2,7 @@
 date = "2017-06-08T12:00:00+06:00"
 title = "CacheCart"
 categories = ["Apps"]
-tags = ["voice assistant", "shopping", "video", "prototype", "Adobe XD"]
+tags = ["video", "Adobe XD"]
 +++
 ## Smart Household Shopping Assistant
 

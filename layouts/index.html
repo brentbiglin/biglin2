@@ -13,6 +13,13 @@
         {{ .Render "li" }}
       {{ end }}
     </div>
+    <br>
+    <h2 class='list-title title'>Tools & Methods</h2>
+    <ul id="all-tags" class='all-tags'>
+      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+      {{ end }}
+    </ul>
   </section>
 </main>
 

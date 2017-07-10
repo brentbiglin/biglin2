@@ -9,7 +9,7 @@ googleAnalytics = ""
 Paginate = 5
 
 [params]
-  description = "UX Designer with a Coding Habit"
+  description = "UX Designer with a coding habit"
   dateFormat = "2 Jan 2006"
   copyrightOwner = "Brent Biglin"
   copyrightStartYear = "2017"
@@ -38,8 +38,8 @@ Paginate = 5
   name = "Brent"
 
 [author.social]
-  github = "brentbiglin"
   twitter = "brntbgln"
+  github = "brentbiglin"
 
 [permalinks]
   page = "/:slug/"

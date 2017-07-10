@@ -10,20 +10,20 @@ I am a student of UX design, research, and information architecture at the Unive
 
 I hold a Master's degree in Arabic Language and Literature and a Bachelor's degree in Cultural Studies and Arabic with a minor in Security and Intelligence. I utilize my interdisciplinary training to develop human-centered information architectures and designs. Advocacy for and fostering understanding among and between people has been the common thread throughout my professional career.
 
-**Here are some jobs I've done in the past:**
+**Here are some roles I've filled in the past:**
 
 * Arabic Instructor
 * Instructor of English as a Second Language
 * College Advisor for Refugees and Undocumented Youth
 * Barista
 
-**Here are some jobs I'm doing now:**
+**Here are some things I'm doing now:**
 
-* UX Designer and Researcher
-* Web Designer
+* UX Design and Research
+* Web Design
 
-**Here are some jobs I'll do in the future:**
+**Here are some jobs I'll have in the future:**
 
-* Front-end Developer
 * Senior Designer/Developer/Unicorn
+* CTO
 * Officer aboard some sort of intergalactic space vessel

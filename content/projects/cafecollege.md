@@ -2,7 +2,7 @@
 date = "2016-07-01T12:00:00+06:00"
 title = "Cafécollege"
 categories = ["Websites"]
-tags = ["redesign", "usability testing", "non-profit", "UX research"]
+tags = ["usability testing"]
 +++
 ## Website Redesign
 

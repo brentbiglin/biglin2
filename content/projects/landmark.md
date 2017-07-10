@@ -2,7 +2,7 @@
 date = "2017-05-04T12:00:00+06:00"
 title = "LandmARk"
 categories = ["Apps"]
-tags = ["augmented reality", "navigation", "video"]
+tags = ["augmented reality", "video"]
 +++
 ## Augmented Reality Navigation
 
