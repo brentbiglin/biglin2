@@ -1,0 +1,5 @@
+/* Custom CSS */
+.site-description,
+.entry-subtitle {
+  font-style: none;
+}
