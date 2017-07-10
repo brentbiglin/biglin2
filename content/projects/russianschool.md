@@ -2,7 +2,7 @@
 date = "2017-04-08T12:00:00+06:00"
 title = "Russian School of Austin"
 categories = ["Websites"]
-tags = ["Sketch", "InVision", "contextual inquiry"]
+tags = ["Sketch", "InVision", "contextual inquiry", "information archtecture", "surveys", "user interviews"]
 +++
 ## Website Design
 
