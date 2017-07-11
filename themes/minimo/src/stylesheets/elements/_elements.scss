@@ -25,13 +25,13 @@ q {
 }
 
 blockquote {
-  font-style: italic;
+  font-style: none;
 
   margin: 0 0 1.35em;
   padding-left: 1.25em;
 
   border-left: .2em solid $color--grey;
-  @include font-size(1.1111111111111112);
+  @include font-size(.95em);
 }
 
 hr {
