@@ -14,5 +14,9 @@
   height: 100%;
 }
 ul.all-tags {
-  list-style-type: none;
+  list-style: none;
+  display: table-row;
+}
+a.dotted {
+  border-bottom: 2px dashed #50B3CA;
 }
