@@ -18,5 +18,12 @@ ul.all-tags {
   display: table-row;
 }
 a.dotted {
-  border-bottom: 2px dashed #50B3CA;
+  border-bottom: 1px dashed #50B3CA;
+}
+a.dotted:hover {
+  border-bottom: 1px solid #50B3CA;
+}
+.title, .entry-title, h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
 }
