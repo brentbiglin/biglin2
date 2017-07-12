@@ -12,7 +12,7 @@
           {{ if eq .Kind "home" }}
           <h1 class='site-title title'>{{ .Site.Title }}</h1>
           {{ else }}
-          <p class='site-title title'>{{ .Site.Title }}</p>
+          <p class='site-title title'>{{ .Title }}</p>
           {{ end }}
           <p class='site-description'>{{ .Site.Params.description }}</p>
         </div>
