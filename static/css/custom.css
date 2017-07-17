@@ -18,17 +18,17 @@ ul.all-tags {
   display: table-row;
 }
 a.dotted {
-  border-bottom: 1px dashed #50B3CA;
+  border-bottom: 1px dashed #69C7FA;
 }
 a.dotted:hover {
-  border-bottom: 1px solid #50B3CA;
+  border-bottom: 1px solid #69C7FA;
 }
 .title, .entry-title, h1 {
   font-family: 'Playfair Display', serif;
   font-weight: 900;
 }
 html {
-  background-color: #2a2a2a;
+  background-color: #1F1D27;
 }
 body {
   color: #d6d6d6;
