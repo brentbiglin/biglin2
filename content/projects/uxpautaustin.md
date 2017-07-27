@@ -7,6 +7,8 @@ tags = ["Hugo", "HTML CSS", "Netlify", "GitHub", "Adobe Photoshop"]
 +++
 ## Website Design
 
+![UXPA UT Austin Logo](/img/uxpa-ut-austin-logo.jpg "UXPA UT Austin Logo")
+
 As one of the founding board members of the User Experience Professionals Association University of Texas at Austin student chapter, I am fortunate to take on the role of the Communications Lead. I deal with regular communications to our student chapter members and UXPA International's board--in particular, [Brian Mills](https://www.linkedin.com/in/brianmills/), Director of Chapters, and [Kendell Warner](https://www.linkedin.com/in/kendellwarner/), Regional Director of North America.
 
 Another responsibility of the Communications Lead is to maintain and, in the case of a chapter that's just been founded, create a website to serve as a digital home for the chapter. I created [this site](https://uxpautaustin.org) with the static site generator, [Hugo](https://gohugo.io). The [source code](https://github.com/brentbiglin/uxpa-ut-austin) is hosted on GitHub, and the site is built and hosted on [Netlify](https://www.netlify.com). I created a logo and icons that are consistent with UXPA's branding with a little UT flavor. 
