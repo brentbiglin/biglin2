@@ -17,6 +17,22 @@ ul.all-tags {
   list-style: none;
   display: table-row;
 }
+ul.all-categories {
+  list-style: none;
+}
+ul.all-categories li::before {
+  color: #B3A4F9;
+  /* color of bullet or square */
+  content: "\2937";
+  /* Unicode of character to precede the list item */
+  font-size: 1em;
+  /* em or %*/
+  padding-right: 1.1225em;
+  /* use em*/
+  position: relative;
+  top: 0em;
+  /* use em or % */
+}
 a.dotted {
   border-bottom: 1px dashed #69C7FA;
 }
@@ -31,11 +47,12 @@ html {
   background-color: #1F1D27;
 }
 body {
-  color: #ababab;
+  color: #cccccc;
+  font-weight: 500;
 }
 a, a:active, a:visited, a:link {
-  color: #ababab;
+  color: #cccccc;
 }
 h2 {
-  color: #ababab;
+  color: #cccccc;
 }

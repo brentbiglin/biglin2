@@ -1,7 +1,7 @@
 +++
 date = "2016-07-01T12:00:00+06:00"
 title = "Cafécollege"
-categories = ["Websites"]
+categories = ["Research", "Design", "Development"]
 tags = ["usability testing", "information architecture"]
 +++
 ## Website Redesign

@@ -1,7 +1,7 @@
 +++
 date = "2017-06-08T12:00:00+06:00"
 title = "CacheCart"
-categories = ["Apps"]
+categories = ["Research", "Design"]
 tags = ["video", "Adobe XD", "competitive analysis", "user interviews", "surveys"]
 +++
 ## Smart Household Shopping Assistant

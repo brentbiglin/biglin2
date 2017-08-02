@@ -1,7 +1,7 @@
 +++
 date = "2017-04-06T12:00:00+06:00"
 title = "Water to Thrive"
-categories = ["Websites"]
+categories = ["Research", "Design"]
 tags = ["information architecture", "competitive analysis", "Sketch", "InVision"]
 +++
 ## Website Redesign

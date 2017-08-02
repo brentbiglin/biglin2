@@ -1,6 +1,6 @@
 +++
 title = "UXPA UT Austin"
-categories = ["Websites"]
+categories = ["Design", "Development"]
 date = 2017-07-26T19:37:30-05:00
 draft =  false
 tags = ["Hugo", "HTML CSS", "Netlify", "GitHub", "Adobe Photoshop"]
