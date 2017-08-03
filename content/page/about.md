@@ -10,6 +10,8 @@ I am a student of UX design, research, and information architecture at the Unive
 
 I hold a Master's degree in Arabic Language and Literature and a Bachelor's degree in Cultural Studies and Arabic with a minor in Security and Intelligence. I utilize my interdisciplinary training to develop human-centered information architectures and designs. Advocacy for and fostering understanding among and between people has been the common thread throughout my professional career.
 
+For more detailed information, take a look at my [resume](/img/Brent-Biglin-Resume.pdf).
+
 **Here are some things I'm doing now:**
 
 * UX Design and Research
