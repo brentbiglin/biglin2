@@ -21,7 +21,7 @@ ul.all-categories {
   list-style: none;
 }
 ul.all-categories li::before {
-  color: #B3A4F9;
+  color: ##715ACE;
   /* color of bullet or square */
   content: "\2937";
   /* Unicode of character to precede the list item */
@@ -34,25 +34,25 @@ ul.all-categories li::before {
   /* use em or % */
 }
 a.dotted {
-  border-bottom: 1px dashed #69C7FA;
+  border-bottom: 2px solid #4a8fb5;
 }
 a.dotted:hover {
-  border-bottom: 1px solid #69C7FA;
+  border-bottom: 2px solid #4a8fb5;
 }
 .title, .entry-title, h1 {
   font-family: 'Playfair Display', serif;
   font-weight: 900;
 }
 html {
-  background-color: #1F1D27;
+  background-color: #ffffff;
 }
 body {
-  color: #cccccc;
+  color: #1F1D27;
   font-weight: 500;
 }
 a, a:active, a:visited, a:link {
-  color: #cccccc;
+  color: #1F1D27;
 }
 h2 {
-  color: #cccccc;
+  color: #1F1D27;
 }

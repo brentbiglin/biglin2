@@ -1,11 +1,6 @@
 {{ partial "header.html" . }}
 
 <main class='main'>
-  {{ if .Content }}
-  <article class='entry'>
-    {{ partial "entry/content" . }}
-  </article>
-  {{ end }}
   <section id='list' class='list-container'>
     <h2 class='list-title title'>Skills</h2>
     <ul id="all-categories" class='all-categories'>
@@ -13,6 +8,20 @@
       <li><a class="dotted" href="/categories/design">Design</a></li>
       <li><a class="dotted" href="/categories/development">Development</a></li>
     </ul>
+  </section>
+  {{ if .Content }}
+  <article class='entry'>
+    {{ partial "entry/content" . }}
+  </article>
+  {{ end }}
+  <section id='list' class='list-container'>
+    <h2 class='list-title title'>Recent Projects</h2>
+    <div class='list'>
+      {{ range ( first 5 ( where .Data.Pages "Section" "ne" "page" ) ) }}
+        {{ .Render "li" }}
+      {{ end }}
+    </div>
+    <br>
     <br>
     <h2 class='list-title title'>Tools & Methods</h2>
     <ul id="all-tags" class='all-tags'>
@@ -20,13 +29,6 @@
       <li><a class="dotted" href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
       {{ end }}
     </ul>
-    <br>
-    <h2 class='list-title title'>Recent Projects</h2>
-    <div class='list'>
-      {{ range ( first 5 ( where .Data.Pages "Section" "ne" "page" ) ) }}
-        {{ .Render "li" }}
-      {{ end }}
-    </div>
   </section>
 </main>
 
