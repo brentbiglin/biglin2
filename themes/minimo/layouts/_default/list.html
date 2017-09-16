@@ -8,12 +8,10 @@
       {{- .Title -}}
     </h1>
     <div class='list'>
-      {{ range .Paginator.Pages }}
+      {{ range .Pages }}
         {{ .Render "li" }}
       {{ end }}
     </div>
-
-    {{ partial "nav/pagination.html" . }}
   </section>
 </main>
 
