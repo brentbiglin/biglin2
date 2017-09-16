@@ -9,4 +9,7 @@
   {{ end }}
   &copy; {{ with $.Scratch.Get "copyrightStartYear" }}{{ . }}-{{ end }}{{ now.Year }} {{ or .Site.Params.CopyrightOwner ( or .Site.Author.name .Site.Title ) }}
 {{- end -}}
+<br>
+</p>
+Built with <a href="https://gohugo.io">Hugo</a>. Hosted by <a href="https://netlify.com">Netlify</a> via <a href="https://github.com">GitHub</a>.
 </p>
