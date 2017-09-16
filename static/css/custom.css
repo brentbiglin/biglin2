@@ -34,10 +34,10 @@ ul.all-categories li::before {
   /* use em or % */
 }
 a.dotted {
-  border-bottom: 2px solid #4a8fb5;
+  border-bottom: 2px solid #43BCD4;
 }
 a.dotted:hover {
-  border-bottom: 2px solid #4a8fb5;
+  border-bottom: 2px solid #43BCD4;
 }
 .title, .entry-title, h1 {
   font-family: 'Playfair Display', serif;
