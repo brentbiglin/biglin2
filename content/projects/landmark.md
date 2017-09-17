@@ -4,8 +4,6 @@ title = "LandmARk"
 categories = ["Design"]
 tags = ["augmented reality", "video"]
 +++
-## Augmented Reality Navigation
-
 ![Screenshot of Landmark Augmented Reality Navigation app screen](/img/landmark1.jpg "LandmARk Augmented Reality app")
 
 I was on a team that created a video mock-up for an augmented reality navigation application to help students find and navigate to their courses at the beginning of each semester. This can be very difficult and stressful for new students, particularly at a large university with an immense campus like UT Austin.

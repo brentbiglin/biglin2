@@ -5,8 +5,6 @@ date = 2017-07-26T19:37:30-05:00
 draft =  false
 tags = ["Hugo", "HTML CSS", "Netlify", "GitHub", "Adobe Photoshop"]
 +++
-## Website Design
-
 ![UXPA UT Austin Logo](/img/uxpa-ut-austin-logo.jpg "UXPA UT Austin Logo")
 
 As one of the founding board members of the User Experience Professionals Association University of Texas at Austin student chapter, I am fortunate to take on the role of the Communications Lead. I deal with regular communications to our student chapter members and UXPA International's board--in particular, [Brian Mills](https://www.linkedin.com/in/brianmills/), Director of Chapters, and [Kendell Warner](https://www.linkedin.com/in/kendellwarner/), Regional Director of North America.

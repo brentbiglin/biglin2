@@ -4,8 +4,6 @@ title = "Russian School of Austin"
 categories = ["Research", "Design"]
 tags = ["Sketch", "InVision", "contextual inquiry", "information architecture", "surveys", "user interviews"]
 +++
-## Website Design
-
 ![Comparison of the low and high fidelity mockups for the Russian School of Austin website](/img/russianschool1.png "Low and High Fidelity Mockups for the Russian School of Austin Website")
 
 As a part of a course at the University of Texas, I have the opportunity to take part in the creation of a website for the Russian School of Austin, which is a local extracurricular program that offers various subjects in Russian on Sundays. After a competitive analysis of websites for similar programs, we met with the client and were able to probe into what exactly they want the website to provide to the students and parents of the school.

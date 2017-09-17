@@ -4,8 +4,6 @@ title = "Water to Thrive"
 categories = ["Research", "Design"]
 tags = ["information architecture", "competitive analysis", "Sketch", "InVision"]
 +++
-## Website Redesign
-
 I met with a local non-profit interested in updating their website both functionally and aesthetically. After researching their current website, I came up with the following diagram of their site's information architecture.
 
 ![Diagram of Water to Thrive website information architecture](/img/watertothrive1.jpg "Water to Thrive Website Information Architecture")

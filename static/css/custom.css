@@ -13,25 +13,25 @@
   width: 100%;
   height: 100%;
 }
+.portfolio-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+.portfolio {
+  width: 250px;
+  max-width: 100%;
+  margin-top: 50px;
+}
 ul.all-tags {
   list-style: none;
   display: table-row;
 }
 ul.all-categories {
   list-style: none;
-}
-ul.all-categories li::before {
-  color: ##715ACE;
-  /* color of bullet or square */
-  content: "\2937";
-  /* Unicode of character to precede the list item */
-  font-size: 1em;
-  /* em or %*/
-  padding-right: 1.1225em;
-  /* use em*/
-  position: relative;
-  top: 0em;
-  /* use em or % */
+  display: table-row;
 }
 a.dotted {
   border-bottom: 2px solid #43BCD4;

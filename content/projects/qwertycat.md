@@ -4,8 +4,6 @@ title = "A Design and Content Agency Concept Site"
 categories = ["Design", "Development"]
 tags = ["Hugo", "HTML CSS", "Netlify", "GitHub", "Adobe Illustrator"]
 +++
-## Website Design
-
 ![Screenshot of design and content agency concept site](/img/qwertycat2.png "Design and Content Agency Homepage")
 ["QwertyCat"](https://qwertycat.netlify.com)
 

@@ -4,8 +4,6 @@ title = "Cafécollege"
 categories = ["Research", "Design", "Development"]
 tags = ["usability testing", "information architecture"]
 +++
-## Website Redesign
-
 ![Before and after of the cafécollege website](/img/cafecollege1.png "Cafécollege Website, Before and After")
 
 My very first experience with user research and design was a self-directed project that I began while I was a College Advisor for the San Antonio Education Partnership. In July 2016, I took the initiative to research ways that our website could be improved and, most importantly, mobile-friendly. The fact that many of our clients' primary or only internet access was through their mobile phones made responsive design a priority. The website as it was did not feature the most important information about our organization on the home page above the fold and was generally difficult to navigate.
