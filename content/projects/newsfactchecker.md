@@ -17,7 +17,7 @@ On top of that, I made the interface responsive so that the content of the page 
 
 ![Screenshot of the News Fact Checker on mobile](/img/newsfactchecker3.png "Screenshot of the News Fact Checker on mobile")
 
-I was able to contribute to the project outside of the visual aspect as well. I suggested that we utilize a likert scale to gauge a user's own perception of the claim for which they are seeking verification. Initially, the design requiredusers to complete three number input forms indicating the validity of the claim as percentages of the claim being true, false, or uncertain. Each of these three percentages would have to add up to 100%, putting the burden on the user of a) completing three different forms submissions for one assessment and b) doing math.
+I was able to contribute to the project outside of the visual aspect as well. I suggested that we utilize a likert scale to gauge a user's own perception of the claim for which they are seeking verification. Initially, the design required users to complete three number input forms indicating the validity of the claim as percentages of the claim being true, false, or uncertain. Each of these three percentages would have to add up to 100%, putting the burden on the user of a) completing three different forms submissions for one assessment and b) doing math.
 
 ![Screenshot of the News Fact Checker on mobile](/img/newsfactchecker4.png "Screenshot of the News Fact Checker on mobile")
 
