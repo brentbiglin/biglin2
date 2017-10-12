@@ -1,8 +1,8 @@
 +++
 date = "2017-04-08T12:00:00+06:00"
 title = "Russian School of Austin"
-categories = ["Research", "Design"]
-tags = ["Sketch", "InVision", "contextual inquiry", "information architecture", "surveys", "user interviews"]
+practice = ["Research", "Design"]
+tools = ["Sketch", "InVision", "contextual inquiry", "information architecture", "surveys", "user interviews"]
 +++
 ![Comparison of the low and high fidelity mockups for the Russian School of Austin website](/img/russianschool1.png "Low and High Fidelity Mockups for the Russian School of Austin Website")
 

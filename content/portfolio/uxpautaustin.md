@@ -1,9 +1,9 @@
 +++
 title = "UXPA UT Austin"
-categories = ["Design", "Development"]
+practice = ["Design", "Development"]
 date = 2017-07-26T19:37:30-05:00
 draft =  false
-tags = ["Hugo", "HTML CSS", "Netlify", "GitHub", "Adobe Photoshop"]
+tools = ["Hugo", "HTML CSS", "Netlify", "GitHub", "Adobe Photoshop"]
 +++
 ![UXPA UT Austin Logo](/img/uxpa-ut-austin-logo.jpg "UXPA UT Austin Logo")
 

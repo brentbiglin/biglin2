@@ -28,8 +28,8 @@ Paginate = 5
     appid = ""
 
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+  category = "practice"
+  tag = "tools"
 
 [social]
   twitter = "https://twitter.com/brntbgln"

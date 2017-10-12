@@ -9,6 +9,6 @@ weight: -270
 
 > I believe that information can be truly transformative and drastically alter the trajectory of someone's life. This is why I feel strongly that good research, design, and implementation can have a profound effect on the lives of people all over the world, regardless of their language or origin.
 
-> My portfolio is navigable by [Research](/categories/research/), [Design](/categories/design/), and [Development](/categories/development/) tags, as well as the tools and methods I employed below.
+> My portfolio is navigable by [Research](/practice/research/), [Design](/practice/design/), and [Development](/practice/development/) tags, as well as by the tools and methods I employed below.
 
 > For more detailed information, you're welcome to download a copy of my [resume](/img/Brent-Biglin-Resume.pdf).

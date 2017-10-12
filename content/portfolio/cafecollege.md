@@ -1,8 +1,8 @@
 +++
 date = "2016-07-01T12:00:00+06:00"
 title = "Cafécollege"
-categories = ["Research", "Design", "Development"]
-tags = ["usability testing", "information architecture"]
+practice = ["Research", "Design", "Development"]
+tools = ["usability testing", "information architecture"]
 +++
 ![Before and after of the cafécollege website](/img/cafecollege1.png "Cafécollege Website, Before and After")
 

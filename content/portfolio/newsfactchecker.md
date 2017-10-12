@@ -1,9 +1,9 @@
 +++
 title = "News Fact Checker"
-categories = ["Research", "Design", "Development"]
+practice = ["Research", "Design", "Development"]
 date = 2017-08-04T15:38:36-05:00
 draft = false
-tags = ["github", "html-css", "sketch"] 
+tools = ["github", "html-css", "sketch"] 
 +++
 As part of an individual study with Professor Mathew Lease, I aided a research team in the design and development of an interface for a news fact checker. Users can submit a claim and will be given the likelihood that the claim is true, false, or unverifiable.
 

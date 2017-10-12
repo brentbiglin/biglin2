@@ -1,8 +1,8 @@
 +++
 date = "2017-06-08T12:00:00+06:00"
 title = "CacheCart"
-categories = ["Research", "Design"]
-tags = ["video", "Adobe XD", "competitive analysis", "user interviews", "surveys"]
+practice = ["Research", "Design"]
+tools = ["video", "Adobe XD", "competitive analysis", "user interviews", "surveys"]
 +++
 <div class="video-container video-container-16x9">
   <iframe src="https://www.youtube-nocookie.com/embed/Kc1mK4s8DEY?rel=0" frameborder="0" allowfullscreen></iframe>

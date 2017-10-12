@@ -1,8 +1,8 @@
 +++
 date = "2017-04-06T12:00:00+06:00"
 title = "Water to Thrive"
-categories = ["Research", "Design"]
-tags = ["information architecture", "competitive analysis", "Sketch", "InVision"]
+practice = ["Research", "Design"]
+tools = ["information architecture", "competitive analysis", "Sketch", "InVision"]
 +++
 I met with a local non-profit interested in updating their website both functionally and aesthetically. After researching their current website, I came up with the following diagram of their site's information architecture.
 

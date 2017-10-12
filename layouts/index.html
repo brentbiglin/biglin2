@@ -3,7 +3,7 @@
 <main class='main'>
   <section id='list' class='list-container'>
  <img src="/img/brent.jpg" style="float:left;border-radius:4px;width:120px;height:120px;margin-right:30px;margin-bottom:30px;" title="Brent!" alt="picture of Brent Biglin">
- <h2 class="list-title title">Hello! <br><br> I'm Brent.</h2>
+ <span class="intro">Hello! <br><br> I'm Brent.</span>
   </section>
   {{ if .Content }}
   <article class='entry'>
@@ -12,18 +12,18 @@
   {{ end }}
   <section id='list' class='portfolio-container'>
   <section class="portfolio">
-    <h2 class='list-title title'>Portfolio</h2>
+    <span class="intro">Portfolio</span>
     <ul id="all-categories" class='all-categories'>
-      <li><a class="dotted" href="/categories/research">Research</a></li>
-      <li><a class="dotted" href="/categories/design">Design</a></li>
-      <li><a class="dotted" href="/categories/development">Development</a></li>
+      <li><a class="dotted" href="/practice/research">Research</a></li>
+      <li><a class="dotted" href="/practice/design">Design</a></li>
+      <li><a class="dotted" href="/practice/development">Development</a></li>
     </ul>
     </section>
     <section class="portfolio">
-    <h2 class='list-title title'>Tools & Methods</h2>
+    <span class='intro'>Tools & Methods</span>
     <ul id="all-tags" class='all-tags'>
-      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-      <li><a class="dotted" href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+      {{ range $name, $taxonomy := .Site.Taxonomies.tools }}
+      <li><a class="dotted" href="{{ "/tools/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
       {{ end }}
     </ul>
     </section>

@@ -1,8 +1,8 @@
 +++
 date = "2017-07-10T12:00:00+06:00"
 title = "A Design and Content Agency Concept Site"
-categories = ["Design", "Development"]
-tags = ["Hugo", "HTML CSS", "Netlify", "GitHub", "Adobe Illustrator"]
+practice = ["Design", "Development"]
+tools = ["Hugo", "HTML CSS", "Netlify", "GitHub", "Adobe Illustrator"]
 +++
 ![Screenshot of design and content agency concept site](/img/qwertycat2.png "Design and Content Agency Homepage")
 ["QwertyCat"](https://qwertycat.netlify.com)
