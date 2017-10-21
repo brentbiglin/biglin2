@@ -33,6 +33,7 @@ Paginate = 5
 
 [social]
   twitter = "https://twitter.com/brntbgln"
+  linkedin = "https://www.linkedin.com/in/brent-biglin-a31b2972/"
 
 [author]
   name = "Brent"
@@ -40,6 +41,8 @@ Paginate = 5
 [author.social]
   twitter = "brntbgln"
   github = "brentbiglin"
+  instagram = "brntbgln"
+  linkedin = "brent-biglin-a31b2972/"
 
 [permalinks]
   page = "/:slug/"
