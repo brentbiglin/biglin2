@@ -42,7 +42,7 @@ Four different kinds of users have been interviewed:
 * Faculty
 * Staff
 
-Our goals for these interviews are to capture the various personas for whom we are designing as well as to source tasks and participants for future card sorts and tree tests.
+These interviews are currently being conducted, after which the data will be analyzed. Our goals for these interviews are to capture the various personas for whom we are designing as well as to source tasks and participants for future card sorts and tree tests.
 
 ## Competitive Analysis
 
