@@ -29,7 +29,11 @@ Of those teams, I led the Competitive Evaluation and User Interview teams—a to
 
 User interviews were conducted in the School of Information Media Lab, which is a small studio that can accommodate recording both audio and video. Interviews were recorded not only to preserve the conversations between the researchers and the participants to be analyzed later, but to capture the affect of the participants and their reactions as well.
 
-![Animated Gif of Interview Participants](/img/ischool-interview-excerpt.gif "Animated Gif of Interview Participants")
+<video width="100%" autoplay>
+ <source src="/img/ischool-interview-excerpt.webm" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+<br>
 
 Four different kinds of users have been interviewed:
 
