@@ -1,7 +1,7 @@
 +++
 title = "School of Information Redesign"
 practice = ["Research", "Design", "Development"]
-date = 2017-10-24
+date = 2017-10-24T13:38:36-05:00
 draft = false
 tools = ["adobe-illustrator", "sketch", "competitive analysis", "information-architecture", "user-interviews", "video"] 
 +++
